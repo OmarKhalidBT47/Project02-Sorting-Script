@@ -1,4 +1,4 @@
 Make sure to have assignment2_file.csv
 
 
-Omar Khalid Rashid   oka5486@rit.edu
+Omar Khalid Rashid Al Thani  oka5486@rit.edu
